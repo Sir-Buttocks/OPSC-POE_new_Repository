@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CalvinPc/DigitalCupboard/app/src/main/res/layout/activity_main.xml" value="1.1" />
+        <entry key="..\:/CalvinPc/DigitalCupboard/app/src/main/res/layout/catagories_layout.xml" value="1.0" />
+        <entry key="..\:/CalvinPc/DigitalCupboard/app/src/main/res/layout/dashboardmockup.xml" value="0.7520833333333333" />
+        <entry key="..\:/CalvinPc/DigitalCupboard/app/src/main/res/layout/fragment_category_add.xml" value="0.9766839378238342" />
+        <entry key="..\:/CalvinPc/DigitalCupboard/app/src/main/res/layout/fragment_dashboard.xml" value="0.67" />
+        <entry key="..\:/CalvinPc/DigitalCupboard/app/src/main/res/layout/fragment_home.xml" value="0.358695652173913" />
+        <entry key="..\:/CalvinPc/DigitalCupboard/app/src/main/res/layout/fragment_item_add.xml" value="0.7151162790697675" />
+        <entry key="..\:/CalvinPc/DigitalCupboard/app/src/main/res/layout/fragment_item_collection.xml" value="1.2732558139534884" />
+        <entry key="..\:/CalvinPc/DigitalCupboard/app/src/main/res/layout/fragment_item_list.xml" value="0.7209302325581395" />
+        <entry key="..\:/CalvinPc/DigitalCupboard/app/src/main/res/layout/fragment_login.xml" value="1.0" />
+        <entry key="..\:/CalvinPc/DigitalCupboard/app/src/main/res/layout/fragment_notifications.xml" value="0.14722222222222223" />
+        <entry key="..\:/CalvinPc/DigitalCupboard/app/src/main/res/layout/item_layout.xml" value="0.934593023255814" />
+        <entry key="..\:/CalvinPc/DigitalCupboard/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/CalvinPc/DigitalCupboard/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.13" />
+        <entry key="..\:/CalvinPc/DigitalCupboard/app/src/main/res/mipmap-anydpi-v26/ic_launcher2.xml" value="0.196" />
+        <entry key="..\:/Documents/Vega3_year/OPS_open7311--SourceCoding/Task 1 -11 April/Code/DigitalCupboard-master1/DigitalCupboard-master/app/src/main/res/layout/activity_log_in.xml" value="0.264" />
+        <entry key="..\:/Documents/Vega3_year/OPS_open7311--SourceCoding/Task 1 -11 April/Code/DigitalCupboard-master1/DigitalCupboard-master/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Documents/Vega3_year/OPS_open7311--SourceCoding/Task 1 -11 April/Code/DigitalCupboard-master1/DigitalCupboard-master/app/src/main/res/layout/catagories_layout.xml" value="0.12613981762917933" />
+        <entry key="..\:/Documents/Vega3_year/OPS_open7311--SourceCoding/Task 1 -11 April/Code/DigitalCupboard-master1/DigitalCupboard-master/app/src/main/res/layout/dashboardmockup.xml" value="0.12613981762917933" />
+        <entry key="..\:/Documents/Vega3_year/OPS_open7311--SourceCoding/Task 1 -11 April/Code/DigitalCupboard-master1/DigitalCupboard-master/app/src/main/res/layout/fragment_category_add.xml" value="0.12613981762917933" />
+        <entry key="..\:/Documents/Vega3_year/OPS_open7311--SourceCoding/Task 1 -11 April/Code/DigitalCupboard-master1/DigitalCupboard-master/app/src/main/res/layout/fragment_dashboard.xml" value="0.12613981762917933" />
+        <entry key="..\:/Documents/Vega3_year/OPS_open7311--SourceCoding/Task 1 -11 April/Code/DigitalCupboard-master1/DigitalCupboard-master/app/src/main/res/layout/fragment_home.xml" value="0.12613981762917933" />
+        <entry key="..\:/Documents/Vega3_year/OPS_open7311--SourceCoding/Task 1 -11 April/Code/DigitalCupboard-master1/DigitalCupboard-master/app/src/main/res/layout/fragment_item.xml" value="0.12613981762917933" />
+        <entry key="..\:/Documents/Vega3_year/OPS_open7311--SourceCoding/Task 1 -11 April/Code/DigitalCupboard-master1/DigitalCupboard-master/app/src/main/res/layout/fragment_item_add.xml" value="0.12613981762917933" />
+        <entry key="..\:/Documents/Vega3_year/OPS_open7311--SourceCoding/Task 1 -11 April/Code/DigitalCupboard-master1/DigitalCupboard-master/app/src/main/res/layout/fragment_item_collection.xml" value="0.12613981762917933" />
+        <entry key="..\:/Documents/Vega3_year/OPS_open7311--SourceCoding/Task 1 -11 April/Code/DigitalCupboard-master1/DigitalCupboard-master/app/src/main/res/layout/fragment_login.xml" value="0.12613981762917933" />
+        <entry key="..\:/Documents/Vega3_year/OPS_open7311--SourceCoding/Task 1 -11 April/Code/DigitalCupboard-master1/DigitalCupboard-master/app/src/main/res/layout/fragment_notifications.xml" value="0.12613981762917933" />
+        <entry key="..\:/Documents/Vega3_year/OPS_open7311--SourceCoding/Task 1 -11 April/Code/DigitalCupboard-master1/DigitalCupboard-master/app/src/main/res/layout/item_layout.xml" value="0.12613981762917933" />
+        <entry key="..\:/Documents/Vega3_year/OPS_open7311--SourceCoding/Task 1 -11 April/Code/DigitalCupboard-master1/DigitalCupboard-master/app/src/main/res/layout/registration.xml" value="0.11614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

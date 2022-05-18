@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "781089811256",
+    "project_id": "digitalcupboard",
+    "storage_bucket": "digitalcupboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781089811256:android:3434d2fa565d140aa2efcd",
+        "android_client_info": {
+          "package_name": "com.example.digitalcupboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781089811256-6rthfm83iioq5lm122mgtm2grni75rs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digitalcupboard",
+            "certificate_hash": "14d587adb7fae478dfd5f639fa1f70e80fdc7a66"
+          }
+        },
+        {
+          "client_id": "781089811256-4jtnv5687uutfc5mq3elhkvnlui862jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC48cdOSauh2YCloQLQKFEObnR1v_CTNf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781089811256-4jtnv5687uutfc5mq3elhkvnlui862jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781089811256:android:4b1e13b596d0ab2ca2efcd",
+        "android_client_info": {
+          "package_name": "gamers.code.digitalcupboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781089811256-4jtnv5687uutfc5mq3elhkvnlui862jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC48cdOSauh2YCloQLQKFEObnR1v_CTNf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781089811256-4jtnv5687uutfc5mq3elhkvnlui862jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/logIn_Activity2">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="gamers.code.digitalcupboard.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="gamers.code.digitalcupboard.ui.dashboard.DashboardFragment"
+        android:label="@string/title_dashboard"
+        tools:layout="@layout/fragment_dashboard" >
+        <action
+            android:id="@+id/action_navigation_dashboard_to_itemAddFragment"
+            app:destination="@id/itemAddFragment" />
+        <action
+            android:id="@+id/action_navigation_dashboard_to_categoryAdd"
+            app:destination="@id/categoryAdd" />
+        <action
+            android:id="@+id/action_navigation_dashboard_to_itemCollectionFragment"
+            app:destination="@id/itemCollectionFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_notifications"
+        android:name="gamers.code.digitalcupboard.ui.notifications.NotificationsFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="gamers.code.digitalcupboard.ui.login.LoginFragment"
+        android:label="Login/Register"
+        tools:layout="@layout/fragment_login">
+        <action
+            android:id="@+id/action_loginFragment_to_navigation_dashboard"
+            app:destination="@id/navigation_dashboard" />
+    </fragment>
+    <fragment
+        android:id="@+id/itemAddFragment"
+        android:name="gamers.code.digitalcupboard.ItemAddFragment"
+        android:label="@string/add_item"
+        tools:layout="@layout/fragment_item_add" />
+    <fragment
+        android:id="@+id/categoryAdd"
+        android:name="gamers.code.digitalcupboard.CategoryAdd"
+        android:label="@string/add_category"
+        tools:layout="@layout/fragment_category_add" />
+    <fragment
+        android:id="@+id/itemCollectionFragment"
+        android:name="gamers.code.digitalcupboard.ItemCollectionFragment"
+        android:label="Item Collection"
+        tools:layout="@layout/fragment_item_collection" />
+    <activity
+        android:id="@+id/logIn_Activity2"
+        android:name="gamers.code.digitalcupboard.LogIn_Activity"
+        android:label="activity_log_in"
+
+        tools:layout="@layout/activity_log_in" >
+    <action
+        android:id="@+id/action_loginFragment_to_navigation_dashboard"
+        app:destination="@id/navigation_dashboard" /></activity>
+</navigation>
