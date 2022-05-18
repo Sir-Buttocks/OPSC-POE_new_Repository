@@ -65,8 +65,7 @@ class CategoryAdd : Fragment() {
                 }
             }
     }
-
-
+    
     private fun addCategory(){
 
     }
